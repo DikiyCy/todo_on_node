@@ -1,1 +1,1 @@
-# todo_on_node
+Created a new app with node, express and mongoDB
